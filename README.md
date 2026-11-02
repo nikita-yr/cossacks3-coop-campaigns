@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/game-Cossacks%203-8B5A2B" alt="Cossacks 3">
   <img src="https://img.shields.io/badge/players-2%E2%80%938-2E7D32" alt="2–8 players">
-  <img src="https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/languages-11-blue" alt="11 languages">
   <img src="https://img.shields.io/badge/status-beta-orange" alt="Beta">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
