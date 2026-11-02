@@ -157,13 +157,6 @@ the game can be continued without desync.
 Mods that replace the same menu or room scripts may conflict. Sound, graphics and balance mods are fine.
 </details>
 
-<details>
-<summary><b>Does it work over LAN?</b></summary>
-<br>
-
-Not yet. The co-op room is created on the GSC server.
-</details>
-
 ---
 
 ## 📁 Project Files
