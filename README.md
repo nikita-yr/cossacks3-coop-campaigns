@@ -185,15 +185,6 @@ tested yet. Bug reports are welcome: please attach the game logs from `Documents
 
 ---
 
-## 🇷🇺 Русский
-
-Проходите миссии кампаний **Казаков 3** вместе: от 2 до 8 игроков управляют одной нацией. Кнопка
-**«Кооператив»** в главном меню, выбор кампании и миссии, сохранение и загрузка в коопе, 11 языков игры.
-Установка: подписка в [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3830825914)
-и включение мода в Mod Manager.
-
----
-
 ## 📄 License
 
 Licensed under the [MIT License](LICENSE). Cossacks 3 and its game files are the property of GSC Game World.
