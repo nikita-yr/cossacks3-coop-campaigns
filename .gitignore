@@ -1,0 +1,4 @@
+# Generated from the game's own files by tools/build.py; these are GSC Game World's scripts with
+# our patches applied and must not be redistributed here.
+/data/
+__pycache__/
