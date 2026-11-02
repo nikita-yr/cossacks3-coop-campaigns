@@ -1,0 +1,67 @@
+[h1]Coop Campaigns[/h1]
+Play the campaign missions of Cossacks 3 together with a friend. Both of you command the same nation: one army, one economy, two hetmans.
+
+[h2]How to play[/h2]
+[olist]
+[*]Both players subscribe to the mod and enable it in the Mod Manager.
+[*]Main menu > [b]Co-op[/b]. Log in to the GSC server: the co-op room is created automatically.
+[*]Choose a campaign and a mission. Your friend joins the room from the lobby list and presses Ready.
+[*]Press Start game. You can also start alone.
+[/olist]
+
+[h2]Features[/h2]
+[list]
+[*]Every campaign mission you own (original campaigns first, DLC campaigns if installed).
+[*]All players control the campaign nation together.
+[*]Mission scripts, objectives, allies and enemies work as in the single-player campaign.
+[*]Co-op button in the main menu, translated into all game languages.
+[/list]
+
+[h2]Notes[/h2]
+[list]
+[*]Beta. Saving during a multiplayer game is not supported yet.
+[*]Difficulty is fixed to Normal (it must be the same on every PC).
+[*]Both players need the same mods in the same order, and the DLC of the chosen campaign.
+[*]Changes: historical battle room, main menu, in-game player list. Other mods that replace the same files may conflict.
+[/list]
+
+[hr][/hr]
+[b]Русский[/b]
+Проходите миссии кампаний Казаков 3 вместе с другом. Вы оба управляете одной нацией: одна армия, одна экономика, два гетмана.
+Главное меню > «Кооператив», вход на сервер GSC: комната создаётся сама. Выберите кампанию и миссию, друг заходит в комнату из лобби и нажимает «Готов». Можно начать и одному. Бета: сохранение в сетевой игре пока не поддерживается, сложность всегда «Нормальная».
+
+[b]Українська[/b]
+Проходьте місії кампаній Козаків 3 разом із другом. Ви обидва керуєте однією нацією: одна армія, одна економіка, два гетьмани.
+Головне меню > «Кооператив», вхід на сервер GSC: кімната створюється сама. Оберіть кампанію та місію, друг заходить до кімнати з лобі й натискає «Готовий». Можна почати й самому. Бета: збереження в мережевій грі поки не підтримується, складність завжди «Нормальна».
+
+[b]Polski[/b]
+Przechodź misje kampanii Kozaków 3 razem z przyjacielem. Obaj dowodzicie tym samym narodem: jedna armia, jedna gospodarka, dwóch hetmanów.
+Menu główne > „Kooperacja”, logowanie na serwer GSC: pokój tworzy się sam. Wybierz kampanię i misję, przyjaciel dołącza z lobby i klika „Gotowy”. Można też grać samemu. Beta: zapis w grze sieciowej nie jest jeszcze obsługiwany, poziom trudności zawsze „Normalny”.
+
+[b]Čeština[/b]
+Hrajte mise kampaní Kozáků 3 společně s přítelem. Oba ovládáte stejný národ: jedna armáda, jedna ekonomika, dva hejtmani.
+Hlavní menu > „Kooperace“, přihlášení na server GSC: místnost se vytvoří sama. Vyberte kampaň a misi, přítel se připojí z lobby a klikne na „Připraven“. Lze hrát i sám. Beta: ukládání v síťové hře zatím není podporováno, obtížnost je vždy „Normální“.
+
+[b]Deutsch[/b]
+Spielt die Kampagnenmissionen von Cossacks 3 gemeinsam mit einem Freund. Ihr steuert beide dieselbe Nation: eine Armee, eine Wirtschaft, zwei Hetmane.
+Hauptmenü > „Koop“, Anmeldung am GSC-Server: Der Raum wird automatisch erstellt. Wähle Kampagne und Mission, dein Freund tritt aus der Lobby bei und klickt auf „Bereit“. Man kann auch allein starten. Beta: Speichern im Mehrspielermodus wird noch nicht unterstützt, der Schwierigkeitsgrad ist immer „Normal“.
+
+[b]Français[/b]
+Jouez les missions des campagnes de Cossacks 3 avec un ami. Vous dirigez tous les deux la même nation : une armée, une économie, deux hetmans.
+Menu principal > « Coopération », connexion au serveur GSC : le salon est créé automatiquement. Choisissez la campagne et la mission, votre ami rejoint le salon depuis le lobby et clique sur « Prêt ». Vous pouvez aussi jouer seul. Bêta : la sauvegarde en multijoueur n’est pas encore prise en charge, la difficulté est toujours « Normale ».
+
+[b]Italiano[/b]
+Gioca le missioni delle campagne di Cossacks 3 insieme a un amico. Entrambi guidate la stessa nazione: un esercito, un’economia, due etmani.
+Menu principale > «Cooperativa», accesso al server GSC: la stanza viene creata automaticamente. Scegli campagna e missione, il tuo amico entra dalla lobby e preme «Pronto». Si può anche giocare da soli. Beta: il salvataggio in multiplayer non è ancora supportato, la difficoltà è sempre «Normale».
+
+[b]Español[/b]
+Juega las misiones de las campañas de Cossacks 3 con un amigo. Ambos controláis la misma nación: un ejército, una economía, dos hetmanes.
+Menú principal > «Cooperativo», inicio de sesión en el servidor GSC: la sala se crea sola. Elige campaña y misión; tu amigo entra desde el lobby y pulsa «Listo». También puedes jugar solo. Beta: aún no se puede guardar en partidas multijugador; la dificultad siempre es «Normal».
+
+[b]Português[/b]
+Jogue as missões das campanhas de Cossacks 3 com um amigo. Vocês dois controlam a mesma nação: um exército, uma economia, dois hetmans.
+Menu principal > «Cooperativo», login no servidor GSC: a sala é criada automaticamente. Escolha a campanha e a missão; seu amigo entra pelo lobby e clica em «Pronto». Também é possível jogar sozinho. Beta: salvar em partidas multijogador ainda não é suportado; a dificuldade é sempre «Normal».
+
+[b]Türkçe[/b]
+Cossacks 3 sefer görevlerini bir arkadaşınla birlikte oyna. İkiniz de aynı ulusu yönetirsiniz: tek ordu, tek ekonomi, iki hatman.
+Ana menü > «Ortak Oyun», GSC sunucusuna giriş: oda kendiliğinden oluşturulur. Seferi ve görevi seç; arkadaşın lobiden odaya katılır ve «Hazır»a basar. Tek başına da başlayabilirsin. Beta: çok oyunculu oyunda kayıt henüz desteklenmiyor, zorluk her zaman «Normal».
